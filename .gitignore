@@ -1,0 +1,8 @@
+# Build and Release Folders
+lib/
+node_modules/
+package-lock.json
+yarn.lock
+
+# mac
+.DS_Store
